@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá! Eu sou o Luís Felipe 😎
 
-<!--
-**LuisFelipe-Santos/LuisFelipe-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Atualmente trabalho como suporte em um time de IAM (Identity and Access Management).
+- 🌱 Estou estudando Python para me aprofundar na área de Análise de Dados.
 
-Here are some ideas to get you started:
+## Estatísticas do GitHub
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuisFelipe-Santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipe-Santos&layout=compact&langs_count=6&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- Python <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!-- [Outras Tecnologias Relevantes]-->
+
+## Projetos Destacados
+- [Jogo em Python](https://github.com/LuisFelipe-Santos/Jogo): Um jogo simples de matemática onde o jogador pode testar suas habilidades resolvendo cálculos matemáticos.
+
+## Contato
+<a href="mailto:luisfelipe.nsantos@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/luis-felipe-santos-538030231/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+</a>
