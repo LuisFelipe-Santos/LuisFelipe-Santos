@@ -2,6 +2,8 @@
 
 - 💼 Atualmente trabalho como suporte em um time de IAM (Identity and Access Management).
 - 🌱 Estou estudando Python para me aprofundar na área de Análise de Dados.
+- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas, o que me proporcionou uma base sólida em tecnologia e programação.
+- 📚 Também estou cursando uma pós-graduação em Gestão de Tecnologia da Informação e Transformação Digital.
 
 ## Estatísticas do GitHub
 <div align="center">
