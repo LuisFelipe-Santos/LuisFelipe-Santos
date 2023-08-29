@@ -1,4 +1,6 @@
-# Olá! Eu sou o Luís Felipe 😎
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=30&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Luís+Felipe+😎)](https://git.io/typing-svg)
+<br><br><br>
+
 
 - 💼 Atualmente trabalho como suporte em um time de IAM (Identity and Access Management).
 - 🌱 Estou estudando Python para me aprofundar na área de Análise de Dados.
