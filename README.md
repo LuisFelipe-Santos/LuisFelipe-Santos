@@ -19,6 +19,7 @@
 
 ## Projetos Destacados
 - [Jogo em Python](https://github.com/LuisFelipe-Santos/Jogo): Um jogo simples de matemática onde o jogador pode testar suas habilidades resolvendo cálculos matemáticos.
+- [Mercado em Python](https://github.com/LuisFelipe-Santos/Mercado): Este projeto implementa um mercado virtual onde os usuários podem realizar simulações de compra.
 
 ## Contato
 <a href="mailto:luisfelipe.nsantos@gmail.com">
