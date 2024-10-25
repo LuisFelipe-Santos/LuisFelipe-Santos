@@ -2,10 +2,9 @@
 <br><br><br>
 
 
-- 💼 Atualmente trabalho como suporte em um time de IAM (Identity and Access Management).
-- 🌱 Estou estudando Python para me aprofundar na área de Análise de Dados.
-- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas.
-- 📚 Também estou cursando uma pós-graduação em Gestão de Tecnologia da Informação e Transformação Digital.
+- 💼 Atualmente trabalho como Gerente de Projetos.
+- 🌱 Estou estudando DevOps para expandir meus conhecimentos em infraestrutura, redes e segurança.
+- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas com pós em Gestão de TI e MBA em Gerenciamento de projetos.
 
 ## Estatísticas do GitHub
 <div align="center">
@@ -18,6 +17,7 @@
 <!-- [Outras Tecnologias Relevantes]-->
 
 ## Projetos Destacados
+- [Projeto-Servidor](https://github.com/LuisFelipe-Santos/Projeto-Servidor):Transformei um notebook antigo em um servidor caseiro completo para rede, streaming e acesso remoto seguro, usando Jellyfin, WireGuard, Samba e DuckDNS.
 - [Jogo em Python](https://github.com/LuisFelipe-Santos/Jogo): Um jogo simples de matemática onde o jogador pode testar suas habilidades resolvendo cálculos matemáticos.
 - [Mercado em Python](https://github.com/LuisFelipe-Santos/Mercado): Este projeto implementa um mercado virtual onde os usuários podem realizar simulações de compra.
 
