@@ -9,7 +9,7 @@
 ## Estatísticas do GitHub
 <div align="center">
 
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipe-Santos&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ## Tecnologias
