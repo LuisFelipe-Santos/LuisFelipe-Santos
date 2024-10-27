@@ -6,15 +6,13 @@
 - 🌱 Estou estudando DevOps para expandir meus conhecimentos em infraestrutura, redes e segurança.
 - 🎓 Sou formado em Análise e Desenvolvimento de Sistemas com pós em Gestão de TI e MBA em Gerenciamento de projetos.
 
-## Estatísticas do GitHub
-<div align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipe-Santos&layout=compact&langs_count=6&theme=dark"/>
-</div>
 
 ## Tecnologias
+
+- Docker <img align="center" alt="Docker" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+- Kubernetes <img align="center" alt="Kubernetes" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+- Git <img align="center" alt="Git" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 - Python <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!-- [Outras Tecnologias Relevantes]-->
 
 ## Projetos Destacados
 - [Projeto-Servidor](https://github.com/LuisFelipe-Santos/Projeto-Servidor):Transformei um notebook antigo em um servidor caseiro completo para rede, streaming e acesso remoto seguro, usando Jellyfin, WireGuard, Samba e DuckDNS.
