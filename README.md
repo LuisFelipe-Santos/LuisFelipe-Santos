@@ -12,6 +12,8 @@
 - Docker <img align="center" alt="Docker" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 - Kubernetes <img align="center" alt="Kubernetes" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
 - Git <img align="center" alt="Git" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+- Terraform <img align="center" alt="Git" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+- AWS <img align="center" alt="Git" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg">
 - Python <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ## Projetos Destacados
